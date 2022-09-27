@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fiery-1
+- 👀 I’m interested in computer science and learning to program.
+- 🌱 I’m currently learning Python and HTML.
