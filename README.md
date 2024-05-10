@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Fiery-1
-- 👀 I’m interested in computer science and learning to program.
-- 🌱 I’m currently learning Python and HTML.
+- 👋 Hi there, I'm Fiery
+- I'm currently learning Java, Python, & postGreSQL
+- I'm fairly proficient in HTML, CSS, and JS
