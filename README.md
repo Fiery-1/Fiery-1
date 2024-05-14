@@ -1,3 +1,3 @@
 - 👋 Hi there, I'm Fiery
-- I'm currently learning Java, Python, & postGreSQL
-- I'm fairly proficient in HTML, CSS, and JS
+- ✍️I'm currently learning Java, Python, & postGreSQL
+- 💪I'm fairly proficient in HTML, CSS, and JS
