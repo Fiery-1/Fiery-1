@@ -7,7 +7,7 @@ My interests currently lie in Artificial Intelligence, Software Development and 
 ### My Projects
 So far, most my projects are private. As UEA doesn't want next years students getting help from previous years. However, this page will start to fill once I create my own projects. 
 
-#### However, you will have to take my word for the fact that I've built a:
+#### You will have to take my word for the fact that I've built a:
 - Movie database system, allowing sorting using **Java**
 - Responsive and modern Website for Sustainability Goals using **HTML, CSS, & JS**
 - Database for a library (how original ik) with **postGreSQL**
