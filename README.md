@@ -55,5 +55,3 @@ In the summer of '24, I have plans to create a portfolio website or till orderin
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-plain.svg" width="40" height="40"/>&nbsp;
 </div>
-
----
