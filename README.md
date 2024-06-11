@@ -1,9 +1,26 @@
-
-<h1>
+<div id="header" align="center">
+  <img align="center" src="https://64.media.tumblr.com/0f7f98991b813078a8c81992ad7d58f7/tumblr_peyfueA0Gh1wv5hmyo1_250.png">
+</div>
+<br>
+<div id="badges" align="center">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/aidan-leonard-b81b0b236/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="www.youtube.com/@Fiery1">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+<h1 align="center">
   Hi there, I'm Fiery! 
-  <img align="right" src="https://yt3.googleusercontent.com/ytc/AIdro_mGRdBXpxrZrPt6aw62Efolsw1U_2zDwBNGbKZJr_RenaI=s176-c-k-c0x00ffffff-no-rj">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600" height="300"/>
+</div>
+
+<br>
 
 ### ❓ Who Am I?
 I'm an enthusiastic and passionate undergraduate currently studying Computer Science at the University of East Anglia. 
@@ -25,6 +42,8 @@ _With my newest projects towards the bottom_
 
 In the summer of '24, I have plans to create a portfolio website or till ordering system (both using web technologies)
 
+---
+
 ### :hammer_and_wrench: Languages and Frameworks:
 
 <div>
@@ -37,13 +56,4 @@ In the summer of '24, I have plans to create a portfolio website or till orderin
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xml/xml-plain.svg" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
-
-<div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/aidan-leonard-b81b0b236/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="www.youtube.com/@Fiery1">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
+---
